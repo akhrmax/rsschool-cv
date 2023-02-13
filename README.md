@@ -1,1 +1,1 @@
-# rsschool-cv
+https://akhrmax.github.io/rsschool-cv/cv
