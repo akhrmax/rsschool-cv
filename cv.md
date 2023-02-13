@@ -17,21 +17,12 @@
 ##### Russian: Native
 ##### English:  B1 (Intermediate)
 
-### ADDITIONAL EDUCATION 
-#### Course name: Course in the field of software testing 
-#### Education centre: IT school “Rocket Science”
-#### Year: 2020
-* understanding of models and methodologies of software development;
-* understanding of Software Development Cycle (Waterfall model, SCRUM, KANBAN);
-* writing test documentation;
-* knowledge of basic fields of bug report, checklist and test case;
-* experience in testing mobile and web applications;
-* search and documentation of bugs in the Jira bug tracking system;
-* classification of defects - Severity and Priority;
-* experience in functional, cross-platform and cross-browser testing.
-* development of positive / negative / boundary test scenarios;
-* preparation of reports based on test results;
-* regression testing;
+### ABOUT ME
+I have previously worked as a tester at a1qa.by, where I honed my skills in Desktop testing, Web testing, Functional testing, Regression testing, and creating and executing check-lists and test cases. Additionally, I have experience in gathering and analyzing test results, reporting bugs, and planning tasks.
+
+I am a hardworking, responsible, and sociable individual who is always eager to learn something new. I pride myself on being a quick learner and a goal-oriented person, who is conscientious in my work. With my strong work ethic, attention to detail, and ability to work well under pressure, I am confident that I have the skills to excel in this role.
+
+I am passionate about web development and am eager to develop my skills in this field. I am excited to learn and grow, and I believe that this role would be the perfect opportunity for me to do so.
 
 ### WORKING EXPERIENCE 
 #### Positon: QA engineer trainee
