@@ -36,3 +36,4 @@ I am passionate about web development and am eager to develop my skills in this 
 *  Results gathering and analysis, bug reporting;
 *   Test results reporting; 
 *  Tasks planning;
+# thank you for your attention
